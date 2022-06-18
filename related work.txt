@@ -1,0 +1,56 @@
+In paper [4] K.M. Rahman disscussed about the types of E-commerce . Commonly there are 4 types of E-commerce and they are B2B , B2C , C2C and C2B. It also presents the summary of all research between e-commerce , web design and culture . Here we can also find more summaries related to e-commerce web design and narrative review. From this research we learn about 
+Literature Exploration Scopes and Literature Filtering Method. It also provides us with better understanding of 
+Research Synthesis
+And New Significant Findings. We got brief knowledge about  narrative review, descriptive review,Vote counting and Meta-analysis. This research throws light on  issue that we should keep in mind while designing an e-commerce website .
+
+
+In paper [] Nazmun Nessa Moon , Shaheena Sultana, Fernaz Narin Nur
+& Mohd Saifuzzaman disscussed briefly about e -commerce also known as search engine marketing , its current and future scenario and literature survey. This research explains us the E - marketing strategy with a very good diagram thus making it easy to understand . It helps us to know both advantages and disadvantages of e -commerce . We also get to know the challenges and limitations of e -commerce . It also explain different types of E-commerce and provide us top motivation factor . All these knowledge helped us alot in our Website .
+
+
+In paper [] Stanley Frederick W.T. Lim, Xin Jin and Jagjit Singh Srai gave us an idea about last mile delivery which is convenient and flexible . This is a very good option for fast Delivery or emergency delivery . This research discussed about the development of experimental LML which is last-mile logistics. We also learned about the execution of four main steps like planning, searching, screening, and extraction/synthesis/reporting. This research paper shows the development of  LML design framework . We get to know about the relationship between LML structural and contingency variables and Reformulation from science-mode into design-mode knowledge.
+
+In paper [] Madhurima Khosla1
+, Harish Kumar2 explained about the growth of e -commerce in india . They define e-commerce as an exchange of goods and services through an electronic medium . It gives an overview of entire process which is involved in e -commerce from start to end . It defines different categories of e -commerce along with example. They also disscussed about the  futuristic trends in the growth of E-commerce which are Omnichannels , Niche Businesses , Mergers & Acquisitions, Focus on Services , Internet Marketing ,Tapping Rural Markets ,Better Infrastructure and Rise in the share of Digital Payments. This research shows us the evolution of e-commerce in India.
+
+
+
+In paper[5] Constantin SASU and Daniela ICHIM compared THE THEORY OF PLANNED 
+BEHAVIOUR (TPB) and Fishbein’s . He also disscussed about THE DECOMPOSED THEORY OF PLANNED BEHAVIOUR (DTPB) in brief . The DTPB has same advantage as TAM that  identifies
+specific salient beliefs . The aspect of the behavioural 
+intention and the actual behaviour is also included . In initial version of Theory the author stated that perceived behavioural control element was 
+constructed based on two factors which are  the self-
+efficacy and the facilitating conditions. The author of the research also discussed about the technology acceptance model (TAM).
+
+
+
+
+
+K.M. Rahman1, "A Narrative Literature Review and E-Commerce 
+Website Research", EAI .EU , 
+vol. 5, 2018 .
+
+Nazmun Nessa Moon , Shaheena Sultana, Fernaz Narin Nur
+& Mohd Saifuzzaman, "
+A Literature Review of the Trend of Electronic Commerce in 
+Bangladesh Perspective" , Global Journal of Management and Business Research: B
+Economics and Commerce, vol.17 , Issue 3 Version 1.0 , 2017.
+
+Stanley Frederick W.T. Lim, Xin Jin and Jagjit Singh Srai, "Consumer-driven e-commerce", International Journal of Physical
+Distribution & Logistics
+Management
+Vol. 48 No. 3, pp. 308-332, 2018.
+
+Madhurima Khosla1
+, Harish Kumar2 , " Growth of E-commerce in India: An Analytical Review of Literature" , IOSR Journal of Business and Management (IOSR-JBM) , vol.19, issue 6 ,  PP 91-95, 2017.
+
+
+Alexandru Ioan Cuza , " UNDERSTANDING E-COMMERCE 
+ADOPTION. LITERATURE REVIEW 
+OF COMPETING MODELS " , SEA - Practical Application of Science
+Volume V, Issue 13 (1 / 2017).
+
+
+
+
+
