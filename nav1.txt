@@ -65,3 +65,17 @@ npm install font-awesome
 npm install @angular/material
 
 npm install @angular/cdk
+
+
+
+
+  beforeEach(() => {
+    fixture = TestBed.createComponent(NavbarComponent);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
+  it('should compile', () => {
+    expect(component).toBeTruthy();
+  });
+});
