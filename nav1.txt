@@ -1,0 +1,67 @@
+app.routing.module 
+
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
+import { AboutUsComponent } from './aboutUs/about-us.component';
+import { ContactUsComponent } from './contactUs/contact-us.component';
+import { HomeComponent } from './home/home.component';
+import { ProductListComponent } from './product/product-list.component';
+
+const routes: Routes = [
+
+    { path: '',pathMatch:'full', component: HomeComponent },
+    { path: 'about', component: AboutUsComponent},
+    { path: 'contact', component: ContactUsComponent},
+    { path: 'product', component:ProductListComponent}
+];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
+
+
+app.html
+
+<app-navbar></app-navbar>
+
+style.css
+
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+@import url('../node_modules/font-awesome/css/font-awesome.min.css');
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+index.html
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Assignment2</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <app-root></app-root>
+</body>
+</html>
+
+
+bootstrap add karne k liye wo hm ek video bhj rhe h wo dkho 
+
+ng add @ng-bootstrap/ng-bootstrap
+
+npm install angular-in-memory-web-api --save-dev
+
+npm install font-awesome
+
+npm install @angular/material
+
+npm install @angular/cdk
